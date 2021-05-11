@@ -16,5 +16,5 @@ Options:
         -n, --name        Targeting file name.
 ```
 ## Example
-![alt text](https://byte.h4ck.me/psh/7crypt-example.png)
+![alt text](https://byte.h4ck.me/psh/7crypt-output.png)
 
