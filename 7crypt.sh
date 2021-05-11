@@ -17,7 +17,7 @@ case $fn in
 		clear
 		echo "
   -------------------------------------------
-  |                 7crypt         	        |
+  |                 7crypt         	    |
   |                  Usage                  |
   |     -e -f filename.py -n filename       |
   | -e \ --encrypt (for encrypting program) |
