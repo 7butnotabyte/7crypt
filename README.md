@@ -14,6 +14,7 @@ Options:
         -e, --encrypt     Encrypt option for the file.
         -f, --file        Targeting file.
         -n, --name        Targeting file name.
+        -h, --help        Just a help command.
 ```
 ## Example
 ![alt text](https://byte.h4ck.me/psh/7crypt-example.png)
