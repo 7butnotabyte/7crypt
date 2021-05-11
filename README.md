@@ -16,4 +16,4 @@ Options:
         -n, --name        Targeting file name.
 ```
 ## Example
-![alt text](https://www.redhat.com/sysadmin/sites/default/files/styles/full/public/2020-02/blur-bright-business-codes-207580.jpg?itok=7m0LV-kw)
+![alt text](https://byte.h4ck.me/psh/7crypt-example.png)
