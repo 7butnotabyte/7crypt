@@ -21,6 +21,6 @@ Options:
 ## Output
 ![alt text](https://byte.h4ck.me/psh/7crypt-output.png)
 
-# FAQ
+# What the hell is that program?
 What is the 7crypt?
 7crypt is a basic Python file obfuscation program. I wrote with the Bash language... Okay that's it, have fun.
