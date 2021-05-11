@@ -20,3 +20,5 @@ Options:
 
 ## Output
 ![alt text](https://byte.h4ck.me/psh/7crypt-output.png)
+
+# FAQ
