@@ -18,3 +18,5 @@ Options:
 ## Example
 ![alt text](https://byte.h4ck.me/psh/7crypt-example.png)
 
+## Output
+![alt text](https://byte.h4ck.me/psh/7crypt-output.png)
