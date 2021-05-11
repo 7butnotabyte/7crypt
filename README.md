@@ -8,7 +8,8 @@ The 7byte's Python2/3 encryption program.
 
 ```
 Usage: ./7crypt.sh [options]
-
+```
+```
 Options:
         -e, --encrypt     Encrypt option for the file.
         -f, --file        Targeting file.
