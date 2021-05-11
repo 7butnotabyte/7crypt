@@ -23,3 +23,4 @@ Options:
 
 # FAQ
 What is the 7crypt?
+7crypt is a basic Python file obfuscation program. I wrote with the Bash language... Okay that's it, have fun.
