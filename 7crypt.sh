@@ -27,7 +27,7 @@ case $fn in
   |                                         |
   -------------------------------------------
 
-               Coder; 7byte#6576
+               Coder; 7byte#0007
 		"
 		;;
 esac
@@ -87,7 +87,7 @@ case $fn in
   |                                         |
   -------------------------------------------
 
-                Coder: 7byte#6576
+                Coder: 7byte#0007
 				"	|	lolcat
 			else
 				sudo apt-get install lolcat -y
